@@ -20,6 +20,8 @@
     "@angular/platform-browser-dynamic": "~11.1.2",
     "@angular/router": "~11.1.2",
     "bootstrap": "^4.6.2",
+    "express": "^4.19.2",
+    "mongoose": "^6.12.9",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
